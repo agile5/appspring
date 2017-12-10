@@ -579,7 +579,7 @@
                 "alt": "Entrance Arch to Appalachian Spring",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -603,7 +603,7 @@
                 "alt": "Beautiful South Facing Garden for Relaxation",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
